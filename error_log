@@ -1,0 +1,621 @@
+[21-Sep-2020 03:58:41 America/New_York] PHP Warning:  require(dbconnect.php): failed to open stream: No such file or directory in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:58:41 America/New_York] PHP Fatal error:  require(): Failed opening required 'dbconnect.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:58:47 America/New_York] PHP Warning:  require(dbconnect.php): failed to open stream: No such file or directory in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:58:47 America/New_York] PHP Fatal error:  require(): Failed opening required 'dbconnect.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:58:56 America/New_York] PHP Warning:  require(dbconnect.php): failed to open stream: No such file or directory in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:58:56 America/New_York] PHP Fatal error:  require(): Failed opening required 'dbconnect.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:59:01 America/New_York] PHP Warning:  require(dbconnect.php): failed to open stream: No such file or directory in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:59:01 America/New_York] PHP Fatal error:  require(): Failed opening required 'dbconnect.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:59:03 America/New_York] PHP Warning:  require(dbconnect.php): failed to open stream: No such file or directory in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:59:03 America/New_York] PHP Fatal error:  require(): Failed opening required 'dbconnect.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:59:05 America/New_York] PHP Warning:  require(dbconnect.php): failed to open stream: No such file or directory in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:59:05 America/New_York] PHP Fatal error:  require(): Failed opening required 'dbconnect.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:59:09 America/New_York] PHP Warning:  require(dbconnect.php): failed to open stream: No such file or directory in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 03:59:09 America/New_York] PHP Fatal error:  require(): Failed opening required 'dbconnect.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sowlyehg/sowlab.website/demo/vehicle/index.php on line 2
+[21-Sep-2020 07:08:52 America/New_York] PHP Notice:  Undefined property: stdClass::$Safety in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 11:33:59 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/sowlyehg/sowlab.website/demo/vehicle/dbconnect.php on line 28
+[21-Sep-2020 11:49:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sowlyehg/sowlab.website/demo/vehicle/dbconnect.php:34
+Stack trace:
+#0 /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php(64): dbconnect->insertData(Array)
+#1 {main}
+  thrown in /home/sowlyehg/sowlab.website/demo/vehicle/dbconnect.php on line 34
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'ClassificationDetails' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'ClassificationDetails' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:54:10 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'ClassificationDetails' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'ClassificationDetails' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:55:03 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'ClassificationDetails' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'ClassificationDetails' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:56:13 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'ClassificationDetails' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'ClassificationDetails' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Undefined variable: vehicleData in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'Response' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'DataItems' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'VehicleRegistration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:57:10 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Undefined property: stdClass::$ClassificationDetails in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Trying to get property 'Model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Undefined property: stdClass::$ClassificationDetails in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:58:10 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Undefined property: stdClass::$ClassificationDetails in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Trying to get property 'Model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Undefined property: stdClass::$ClassificationDetails in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:58:18 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Undefined property: stdClass::$ClassificationDetails in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Trying to get property 'Model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Undefined property: stdClass::$ClassificationDetails in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:58:28 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Undefined property: stdClass::$ClassificationDetails in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Trying to get property 'Model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 31
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Undefined property: stdClass::$ClassificationDetails in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Trying to get property 'Dvla' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 32
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 35
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 36
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 37
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 38
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 39
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[21-Sep-2020 12:59:54 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 40
+[22-Sep-2020 09:42:45 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 84
+[22-Sep-2020 09:42:45 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 92
+[22-Sep-2020 09:42:45 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 100
+[22-Sep-2020 09:42:45 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 108
+[22-Sep-2020 09:42:45 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 116
+[22-Sep-2020 09:42:45 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 124
+[22-Sep-2020 09:42:45 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 132
+[22-Sep-2020 09:42:45 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 140
+[22-Sep-2020 09:45:13 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 84
+[22-Sep-2020 09:45:13 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 92
+[22-Sep-2020 09:45:13 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 100
+[22-Sep-2020 09:45:13 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 108
+[22-Sep-2020 09:45:13 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 116
+[22-Sep-2020 09:45:13 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 124
+[22-Sep-2020 09:45:13 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 132
+[22-Sep-2020 09:45:13 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 140
+[22-Sep-2020 10:08:53 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 84
+[22-Sep-2020 10:08:53 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 92
+[22-Sep-2020 10:08:53 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 100
+[22-Sep-2020 10:08:53 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 108
+[22-Sep-2020 10:08:53 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 116
+[22-Sep-2020 10:08:53 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 124
+[22-Sep-2020 10:08:53 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 132
+[22-Sep-2020 10:08:53 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 140
+[22-Sep-2020 10:09:13 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 84
+[22-Sep-2020 10:09:13 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 92
+[22-Sep-2020 10:09:13 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 100
+[22-Sep-2020 10:09:13 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 108
+[22-Sep-2020 10:09:13 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 116
+[22-Sep-2020 10:09:13 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 124
+[22-Sep-2020 10:09:13 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 132
+[22-Sep-2020 10:09:13 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 140
+[22-Sep-2020 10:10:22 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 84
+[22-Sep-2020 10:10:22 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 92
+[22-Sep-2020 10:10:22 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 100
+[22-Sep-2020 10:10:22 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 108
+[22-Sep-2020 10:10:22 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 116
+[22-Sep-2020 10:10:22 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 124
+[22-Sep-2020 10:10:22 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 132
+[22-Sep-2020 10:10:22 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 140
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 72
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 72
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 73
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'MakeModel' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 73
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 74
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 74
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 75
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 75
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 76
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'FuelType' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 76
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 77
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 77
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 78
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 78
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 79
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 79
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Undefined property: stdClass::$SmmtDetails in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 82
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 82
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 157
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 165
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 173
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 181
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 189
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 197
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 205
+[24-Sep-2020 08:53:28 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 213
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 72
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 72
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 73
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'MakeModel' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 73
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 74
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 74
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 75
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 75
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 76
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'FuelType' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 76
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 77
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 77
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 78
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 78
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 79
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 79
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Undefined property: stdClass::$SmmtDetails in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 82
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 82
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 157
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 165
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 173
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 181
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 189
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 197
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 205
+[25-Sep-2020 05:12:25 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 213
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 72
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 72
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 73
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'MakeModel' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 73
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 74
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 74
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 75
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 75
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 76
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'FuelType' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 76
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 77
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 77
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 78
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 78
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 79
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 79
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Undefined property: stdClass::$SmmtDetails in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 82
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 82
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 157
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 165
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 173
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 181
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 189
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 197
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 205
+[25-Sep-2020 05:12:47 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 213
+[27-Sep-2020 00:16:23 America/New_York] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 16
+[27-Sep-2020 00:18:13 America/New_York] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 16
+[27-Sep-2020 00:22:06 America/New_York] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 16
+[27-Sep-2020 00:22:50 America/New_York] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 16
+[27-Sep-2020 00:25:37 America/New_York] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 16
+[27-Sep-2020 00:27:03 America/New_York] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 16
+[27-Sep-2020 00:27:26 America/New_York] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 16
+[27-Sep-2020 00:29:19 America/New_York] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 16
+[27-Sep-2020 00:57:38 America/New_York] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 16
+[27-Sep-2020 02:33:02 America/New_York] PHP Notice:  Undefined variable: referer in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 57
+[27-Sep-2020 02:33:38 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 192
+[27-Sep-2020 02:34:54 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 192
+[27-Sep-2020 02:35:06 America/New_York] PHP Notice:  Undefined variable: referer in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 57
+[27-Sep-2020 02:42:45 America/New_York] PHP Notice:  Undefined variable: referer in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 57
+[27-Sep-2020 02:44:36 America/New_York] PHP Notice:  Undefined variable: referer in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 57
+[27-Sep-2020 02:48:30 America/New_York] PHP Notice:  Undefined variable: referer in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 57
+[27-Sep-2020 03:00:20 America/New_York] PHP Notice:  Undefined variable: referer in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 57
+[27-Sep-2020 05:05:38 America/New_York] PHP Warning:  move_uploaded_file(images/AudiA4.jpg): failed to open stream: No such file or directory in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 16
+[27-Sep-2020 05:05:38 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOyZcoA' to 'images/AudiA4.jpg' in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 16
+[27-Sep-2020 05:09:55 America/New_York] PHP Warning:  move_uploaded_file(images/AudiA4.jpg): failed to open stream: No such file or directory in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 16
+[27-Sep-2020 05:09:55 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9W3dKW' to 'images/AudiA4.jpg' in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 16
+[27-Sep-2020 05:13:12 America/New_York] PHP Warning:  move_uploaded_file(images/AudiA4.jpg): failed to open stream: No such file or directory in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 16
+[27-Sep-2020 05:13:12 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpasRA5d' to 'images/AudiA4.jpg' in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 16
+[27-Sep-2020 05:25:29 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 61
+[27-Sep-2020 05:25:58 America/New_York] PHP Notice:  Undefined index: regNo in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 7
+[27-Sep-2020 05:45:05 America/New_York] PHP Notice:  Undefined index: regNo in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 7
+[27-Sep-2020 05:59:55 America/New_York] PHP Notice:  Undefined index: serviceHistory in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 12
+[27-Sep-2020 06:39:08 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleImages in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 06:39:08 America/New_York] PHP Notice:  Trying to get property 'ImageDetailsList' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 06:39:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 06:39:08 America/New_York] PHP Notice:  Trying to get property 'ImageUrl' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 08:44:06 America/New_York] PHP Notice:  Undefined index: serviceHistory in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 12
+[27-Sep-2020 09:41:16 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleImages in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 09:41:16 America/New_York] PHP Notice:  Trying to get property 'ImageDetailsList' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 09:41:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 09:41:16 America/New_York] PHP Notice:  Trying to get property 'ImageUrl' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 09:42:24 America/New_York] PHP Notice:  Undefined index: serviceHistory in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 12
+[27-Sep-2020 10:33:54 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleImages in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 10:33:54 America/New_York] PHP Notice:  Trying to get property 'ImageDetailsList' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 10:33:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 10:33:54 America/New_York] PHP Notice:  Trying to get property 'ImageUrl' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 10:37:07 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleImages in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 10:37:07 America/New_York] PHP Notice:  Trying to get property 'ImageDetailsList' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 10:37:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 10:37:07 America/New_York] PHP Notice:  Trying to get property 'ImageUrl' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 23:58:19 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleImages in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 23:58:19 America/New_York] PHP Notice:  Trying to get property 'ImageDetailsList' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 23:58:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[27-Sep-2020 23:58:19 America/New_York] PHP Notice:  Trying to get property 'ImageUrl' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 19
+[28-Sep-2020 03:13:55 America/New_York] PHP Notice:  Undefined index: regNo in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 7
+[28-Sep-2020 03:13:55 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 31
+[28-Sep-2020 03:16:18 America/New_York] PHP Notice:  Undefined index: regNo in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 7
+[28-Sep-2020 03:16:18 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 31
+[28-Sep-2020 03:30:22 America/New_York] PHP Notice:  Undefined index: regNo in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 7
+[28-Sep-2020 03:30:22 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 31
+[28-Sep-2020 03:30:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method dbconnect::getValuationData() in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 40
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Undefined index: regNo in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 7
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 31
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 66
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'email' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 74
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'mobileNumber' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 82
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 95
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'vehicleType' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 103
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 111
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 119
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 127
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 135
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 143
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'fuelType' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 151
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 159
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'metallicPaint' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 167
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'selectVehicle' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 175
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 183
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'mileage' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 191
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'axleConfiguration' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 199
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'previousOwners' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 207
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'serviceHistory' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 215
+[28-Sep-2020 03:32:08 America/New_York] PHP Notice:  Trying to get property 'conditionalLevel' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 223
+[28-Sep-2020 03:42:03 America/New_York] PHP Notice:  Undefined index: regNo in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 7
+[28-Sep-2020 04:23:44 America/New_York] PHP Notice:  Undefined index: regNo in /home/sowlyehg/sowlab.website/demo/vehicle/successPage.php on line 7
+[28-Sep-2020 19:23:34 America/New_York] PHP Notice:  Undefined index: serviceHistory in /home/sowlyehg/sowlab.website/demo/vehicle/valuationForm.php on line 12
+[29-Sep-2020 01:38:28 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/demo/vehicle/manualForm.php on line 177
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 78
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 78
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 79
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'MakeModel' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 79
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 80
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 80
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 81
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 81
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 82
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'FuelType' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 82
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 83
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 83
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 84
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 84
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 85
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 85
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Undefined property: stdClass::$SmmtDetails in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 88
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 88
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'imageUpload' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 2
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleImages in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 27
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'ImageDetailsList' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 27
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 27
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'ImageUrl' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 27
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 204
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 212
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 220
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 228
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 236
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 244
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 252
+[29-Sep-2020 03:31:21 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 260
+[29-Sep-2020 04:28:47 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleImages in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 27
+[29-Sep-2020 04:28:47 America/New_York] PHP Notice:  Trying to get property 'ImageDetailsList' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 27
+[29-Sep-2020 04:28:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 27
+[29-Sep-2020 04:28:47 America/New_York] PHP Notice:  Trying to get property 'ImageUrl' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 27
+[29-Sep-2020 04:34:43 America/New_York] PHP Notice:  Trying to get property 'imageUpload' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 2
+[29-Sep-2020 04:34:43 America/New_York] PHP Notice:  Trying to get property 'fetchMode' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 8
+[29-Sep-2020 04:34:43 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 212
+[29-Sep-2020 04:34:43 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 220
+[29-Sep-2020 04:34:43 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 228
+[29-Sep-2020 04:34:43 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 236
+[29-Sep-2020 04:34:43 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 244
+[29-Sep-2020 04:34:43 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 252
+[29-Sep-2020 04:34:43 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 260
+[29-Sep-2020 04:34:43 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 264
+[29-Sep-2020 04:36:28 America/New_York] PHP Notice:  Trying to get property 'imageUpload' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 2
+[29-Sep-2020 04:36:28 America/New_York] PHP Notice:  Trying to get property 'fetchMode' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/vehicleImage.php on line 8
+[29-Sep-2020 04:36:28 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 212
+[29-Sep-2020 04:36:28 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 220
+[29-Sep-2020 04:36:28 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 228
+[29-Sep-2020 04:36:28 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 236
+[29-Sep-2020 04:36:28 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 244
+[29-Sep-2020 04:36:28 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 252
+[29-Sep-2020 04:36:28 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 260
+[29-Sep-2020 04:36:28 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/demo/vehicle/api_integrate.php on line 264
+[29-Sep-2020 04:42:50 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/demo/vehicle/manualForm.php on line 194
+[29-Sep-2020 04:42:58 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/demo/vehicle/manualForm.php on line 194
+[29-Sep-2020 04:43:02 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/demo/vehicle/manualForm.php on line 194
+[29-Sep-2020 04:43:10 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/demo/vehicle/manualForm.php on line 194
+[29-Sep-2020 04:43:33 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/demo/vehicle/manualForm.php on line 194
+[12-Oct-2020 09:18:50 America/New_York] PHP Notice:  Undefined index: regNo in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 7
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 79
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'Make' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 79
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 80
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'MakeModel' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 80
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 81
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'Vrm' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 81
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 82
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'YearOfManufacture' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 82
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 83
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'FuelType' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 83
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 84
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'Colour' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 84
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 85
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'EngineCapacity' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 85
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Undefined property: stdClass::$VehicleRegistration in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 86
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'DateFirstRegisteredUk' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 86
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Undefined property: stdClass::$SmmtDetails in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 89
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'Transmission' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 89
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'imageUpload' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/vehicleImage.php on line 2
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'fetchMode' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/vehicleImage.php on line 8
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 213
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 221
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 229
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 237
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 245
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 253
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 261
+[12-Oct-2020 09:25:15 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 265
+[12-Oct-2020 09:33:05 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 200
+[12-Oct-2020 09:34:37 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 200
+[12-Oct-2020 09:35:58 America/New_York] PHP Notice:  Trying to get property 'imageUpload' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/vehicleImage.php on line 2
+[12-Oct-2020 09:35:58 America/New_York] PHP Notice:  Trying to get property 'fetchMode' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/vehicleImage.php on line 8
+[12-Oct-2020 09:35:58 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 213
+[12-Oct-2020 09:35:58 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 221
+[12-Oct-2020 09:35:58 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 229
+[12-Oct-2020 09:35:58 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 237
+[12-Oct-2020 09:35:58 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 245
+[12-Oct-2020 09:35:58 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 253
+[12-Oct-2020 09:35:58 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 261
+[12-Oct-2020 09:35:58 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 265
+[12-Oct-2020 09:36:07 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 200
+[12-Oct-2020 09:45:12 America/New_York] PHP Notice:  Trying to get property 'imageUpload' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/vehicleImage.php on line 2
+[12-Oct-2020 09:45:12 America/New_York] PHP Notice:  Trying to get property 'fetchMode' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/vehicleImage.php on line 8
+[12-Oct-2020 09:45:12 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 213
+[12-Oct-2020 09:45:12 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 221
+[12-Oct-2020 09:45:12 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 229
+[12-Oct-2020 09:45:12 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 237
+[12-Oct-2020 09:45:12 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 245
+[12-Oct-2020 09:45:12 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 253
+[12-Oct-2020 09:45:12 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 261
+[12-Oct-2020 09:45:12 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 265
+[12-Oct-2020 09:45:16 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 200
+[12-Oct-2020 09:52:48 America/New_York] PHP Notice:  Trying to get property 'imageUpload' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/vehicleImage.php on line 2
+[12-Oct-2020 09:52:48 America/New_York] PHP Notice:  Trying to get property 'fetchMode' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/vehicleImage.php on line 8
+[12-Oct-2020 09:52:48 America/New_York] PHP Notice:  Trying to get property 'regNo' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 213
+[12-Oct-2020 09:52:48 America/New_York] PHP Notice:  Trying to get property 'manufacturer' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 221
+[12-Oct-2020 09:52:48 America/New_York] PHP Notice:  Trying to get property 'model' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 229
+[12-Oct-2020 09:52:48 America/New_York] PHP Notice:  Trying to get property 'year' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 237
+[12-Oct-2020 09:52:48 America/New_York] PHP Notice:  Trying to get property 'color' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 245
+[12-Oct-2020 09:52:48 America/New_York] PHP Notice:  Trying to get property 'transmission' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 253
+[12-Oct-2020 09:52:48 America/New_York] PHP Notice:  Trying to get property 'engineCapacity' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 261
+[12-Oct-2020 09:52:48 America/New_York] PHP Notice:  Trying to get property 'firstRegistered' of non-object in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 265
+[12-Oct-2020 09:53:45 America/New_York] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 70
+[12-Oct-2020 09:54:00 America/New_York] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 70
+[12-Oct-2020 09:55:01 America/New_York] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 70
+[12-Oct-2020 09:58:20 America/New_York] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 70
+[12-Oct-2020 09:58:54 America/New_York] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 70
+[12-Oct-2020 09:59:45 America/New_York] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 70
+[12-Oct-2020 10:01:58 America/New_York] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 70
+[12-Oct-2020 10:09:18 America/New_York] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 70
+[12-Oct-2020 10:10:09 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/sravan/vehicle/manualForm.php on line 194
+[12-Oct-2020 10:10:24 America/New_York] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 70
+[12-Oct-2020 10:11:00 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/sowlyehg/sowlab.website/sravan/vehicle/valuationForm.php on line 58
+[12-Oct-2020 10:11:12 America/New_York] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/sowlyehg/sowlab.website/sravan/vehicle/api_integrate.php on line 70

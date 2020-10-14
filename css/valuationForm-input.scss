@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+*
+{
+    margin:0;
+    padding:0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper
+{
+    display:flex;
+    flex-direction: row;
+    height: 85vh;
+    // align-items: center;
+    .leftBar
+    {
+        // border:1px solid red;
+        flex:1;
+        .leftBarContents
+        {
+            text-align: center;
+        }
+    }
+    .mainBar
+    {
+        // border:1px solid green;
+        flex:3;
+        form
+        {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            margin: 0 10%;
+            height: 50%;
+            .field
+            {
+                position: relative;
+                i
+                {
+                    position:absolute;
+                    margin:8px;
+                }
+                input[type=text]
+                {
+                    padding-left: 4%;
+                    width:60%;
+                    height: 30px;
+                    outline:none;
+                    transition:0.25s border;
+                }
+                input[type=text]:focus
+                {
+                    border:2px solid seagreen;
+                }
+            }
+            input[type=submit]
+            {
+                width:65%;
+                height:30px;
+                background-color: white;
+                color: seagreen;
+                outline:none;
+                border:1px solid seagreen;
+                cursor: pointer;
+                transition: 0.25s;
+            }
+            input[type=submit]:hover
+            {
+                background-color: seagreen;
+                color:white;
+            }
+        }
+        .back
+        {
+            width:70%;
+            text-align: center;
+            a
+            {
+                border:1px solid seagreen;
+                color:seagreen;
+                text-decoration: none;
+                padding:5px;
+                cursor: pointer;
+                transition:0.25s;
+            }
+            a:hover
+            {
+                background-color: seagreen;
+                color:white;
+            }
+        }
+    }
+}

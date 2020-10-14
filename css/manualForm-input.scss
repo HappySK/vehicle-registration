@@ -1,0 +1,117 @@
+// @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+*
+{
+    margin:0;
+    padding:0;
+    font-family: 'Open Sans', sans-serif;
+    outline:none;
+}
+body
+{   
+    section
+    {
+        display: flex;
+        flex-direction: row;
+        .leftBar
+        {
+            flex:1.5;
+            // border:1px solid red;
+            .leftBarContents
+            {
+                margin:5%;
+                text-align: center;
+            }
+        }
+        .mainBar
+        {
+            flex:4;
+            // border:1px solid green;
+            form
+            {
+                h1
+                {
+                    // text-align: center;
+                    text-transform: uppercase;
+                }
+                display: flex;
+                flex-direction: column;
+                justify-content: space-evenly;
+                height: 70vh;
+                margin: 5%;
+                // align-items: center;
+                table
+                {
+                    height:500px;
+                    width:60%;
+                    tr
+                    {
+                        td
+                        {
+                            // text-align: center;
+                            label
+                            {
+                                padding:1%;
+                                border:1px solid seagreen;
+                                transition: 0.25s;
+                            }
+                            #truck:checked ~ #truckLabel,#farm:checked ~ #farmLabel, #plant:checked ~ #plantLabel, #van:checked ~ #vanLabel, #yes:checked ~ #yesLabel, #no:checked ~ #noLabel, 
+                            {
+                                color:white;
+                                background-color: seagreen;
+                            }
+                            input[type=list]
+                            {
+                                border:1px solid black;
+                                color:seagreen;
+                            }
+                            input[type=text],select
+                            {
+                                height:130%;
+                                // border:1px solid white;
+                                width:100%;
+                                padding:1%;
+                                transition: 0.25s;
+                            }
+                            input[type=text]:focus
+                            {
+                                border:2px solid seagreen;
+                            }
+                            padding:2%;
+                            input[type=submit]
+                            {
+                                width:103%;
+                                padding:2%;
+                                cursor: pointer;
+                                background-color: transparent;
+                                border:1px solid seagreen;
+                                outline:none;
+                                transition: 0.25s;
+                            }
+                            input[type=submit]:hover
+                            {
+                                color:white;
+                                background-color: seagreen;
+                                border-radius: 10px;
+                            }
+                            a
+                            {
+                                text-decoration:none;
+                                padding:1%;
+                                border:1px solid seagreen;
+                                color:seagreen;
+                                transition:0.25s;
+                            }
+                            a:hover
+                            {
+                                background-color: seagreen;
+                                color:white;
+                            }
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

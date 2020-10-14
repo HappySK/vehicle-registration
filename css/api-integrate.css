@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+* {
+  font-family: 'Open Sans', sans-serif; }
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 80vh;
+  align-items: center; }
+  .wrapper .leftSideBar {
+    flex: 1.5;
+    text-align: center; }
+  .wrapper .mainBar {
+    flex: 4; }
+    .wrapper .mainBar .detailsForm {
+      margin-top: 5%;
+      display: table;
+      width: 100%;
+      height: 80vh; }
+      .wrapper .mainBar .detailsForm .row {
+        display: table-row; }
+        .wrapper .mainBar .detailsForm .row input[type=text] {
+          width: 90%;
+          padding: 2%;
+          outline: none; }
+        .wrapper .mainBar .detailsForm .row select {
+          width: 94%;
+          padding: 2%;
+          outline: none; }
+        .wrapper .mainBar .detailsForm .row .radio {
+          border: 1px solid seagreen;
+          color: seagreen;
+          margin-right: 3%;
+          padding: 1%;
+          transition: 0.25s; }
+        .wrapper .mainBar .detailsForm .row #yes:checked ~ #labelYes, .wrapper .mainBar .detailsForm .row #no:checked ~ #labelNo {
+          color: white;
+          background-color: seagreen; }
+        .wrapper .mainBar .detailsForm .row input[type=text]:focus, .wrapper .mainBar .detailsForm .row select:focus, .wrapper .mainBar .detailsForm .row input[type=radio] {
+          border: 2px solid seagreen; }
+        .wrapper .mainBar .detailsForm .row input[type=range] {
+          background-color: seagreen; }
+        .wrapper .mainBar .detailsForm .row output {
+          border: 1px solid seagreen;
+          color: seagreen;
+          padding: 1px 4px;
+          margin-left: 2%; }
+        .wrapper .mainBar .detailsForm .row input[type=submit] {
+          width: 95%;
+          padding: 1%;
+          background-color: seagreen;
+          color: white;
+          outline: none;
+          cursor: pointer;
+          border: 1px solid white;
+          transition: 0.25s; }
+    .wrapper .mainBar .back a {
+      text-decoration: none;
+      border: 1px solid seagreen;
+      color: seagreen;
+      padding: 5px;
+      transition: 0.25s; }
+    .wrapper .mainBar .back a:hover {
+      background-color: seagreen;
+      color: white; }
+  .wrapper .rightSideBar {
+    flex: 2; }
+    .wrapper .rightSideBar .carDetails {
+      display: table;
+      width: 25vw; }
+      .wrapper .rightSideBar .carDetails .field {
+        display: table-row; }
+        .wrapper .rightSideBar .carDetails .field .cell {
+          display: table-cell;
+          padding: 1%; }
+
+@media only screen and (max-width: 370px) {
+  .wrapper {
+    flex-direction: column; } }
+
+/*# sourceMappingURL=api-integrate.css.map */

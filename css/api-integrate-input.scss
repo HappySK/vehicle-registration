@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+*
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper
+{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+    height:80vh;
+    align-items: center;
+    .leftSideBar
+    {
+        flex:1.5;
+        text-align: center;
+        // border: 1px solid green;
+    }
+    .mainBar
+    {
+        flex:4;
+        // border: 1px solid red;
+        .detailsForm
+        {
+            margin-top:5%;
+            display:table;
+            width:100%;
+            height:80vh;
+            .row
+            {
+                display:table-row;
+                input[type=text]
+                {
+                    width:90%;
+                    padding:2%;
+                    outline:none;
+                }
+                select
+                {
+                    width:94%;
+                    padding:2%;
+                    outline:none;
+                }
+                .radio
+                {
+                    border:1px solid seagreen;
+                    color:seagreen;
+                    margin-right:3%;
+                    padding:1%;
+                    transition:0.25s;
+                }
+                #yes:checked ~ #labelYes, #no:checked ~ #labelNo
+                {
+                    color:white;
+                    background-color: seagreen;
+                }
+                input[type=text]:focus,select:focus,input[type=radio]
+                {
+                    border:2px solid seagreen;
+                }
+                input[type=range]
+                {
+                    background-color: seagreen;
+                }
+                output
+                {
+                    border:1px solid seagreen;
+                    color: seagreen;
+                    padding:1px 4px;
+                    margin-left:2%;
+                }
+                input[type=submit]
+                {
+                    width:95%;
+                    padding:1%;
+                    background-color: seagreen;
+                    color:white;
+                    outline:none;
+                    cursor: pointer;
+                    border:1px solid white;
+                    transition:0.25s;
+                }
+            }
+        }
+        .back
+        {
+            a
+            {
+                text-decoration: none;
+                border:1px solid seagreen;
+                color:seagreen;
+                padding:5px;
+                transition:0.25s;
+            }
+            a:hover
+            {
+                background-color: seagreen;
+                color:white;
+            }
+        }
+    }
+    .rightSideBar
+    {
+        flex:2;
+        // border: 1px solid yellow;
+        .carDetails
+        {
+            display: table;
+            width:25vw;
+            .field
+            {
+                display:table-row;
+                .cell
+                {
+                    display:table-cell;
+                    // border:1px solid red;
+                    padding:1%;
+                }
+            }
+        }
+            
+    }
+}
+
+@media only screen and (max-width:370px)
+{
+    .wrapper
+    {
+        flex-direction: column;
+    }
+}
